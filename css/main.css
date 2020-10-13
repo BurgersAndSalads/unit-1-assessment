@@ -10,3 +10,27 @@ div {
     /* flex-direction: row; /* will set layout to column instead of row */
 }
 
+button {
+    background-color: darkgrey;
+    padding: 10px 30px;
+    margin: 30px;
+    border-radius: 20px;
+    border-color: darkgray 5px solid;
+    color: white;
+    font-size: 100px;
+    text-align: center;
+}
+
+button:hover {
+    background-color: white;
+    color: darkgray;
+}
+
+input {
+    padding: 20px;
+    font-size: 30px;
+    border: darkgray 1px solid;
+    border-width: 5px;
+    border-radius: 10px;
+
+}
